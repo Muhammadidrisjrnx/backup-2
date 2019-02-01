@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758838676905",
+    "firebase_url": "https://bersama-4328c.firebaseio.com",
+    "project_id": "bersama-4328c",
+    "storage_bucket": "bersama-4328c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758838676905:android:792ec4044193078f",
+        "android_client_info": {
+          "package_name": "com.example.rplrus021.bersama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758838676905-iigbpnmk5mrtee13g0vki58otbqrl873.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rplrus021.bersama",
+            "certificate_hash": "4c35d44feae7f16d69e3436188eaa1f9e1d274db"
+          }
+        },
+        {
+          "client_id": "758838676905-ifcgacic33gg8i33a2b0fmtf4slqnmh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCmk6Rvxw1auuIojQ67mWJFJghwNwHRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758838676905-ifcgacic33gg8i33a2b0fmtf4slqnmh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

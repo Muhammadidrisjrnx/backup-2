@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activityintent</string>
+    <string name="save">Save</string>
+    <string name="pindah">Pindah</string>
+</resources>

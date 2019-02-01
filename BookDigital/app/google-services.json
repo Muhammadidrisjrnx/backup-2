@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "485887424087",
+    "firebase_url": "https://bookdigital-ff679.firebaseio.com",
+    "project_id": "bookdigital-ff679",
+    "storage_bucket": "bookdigital-ff679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485887424087:android:d8ddb5bdb30cf1ed",
+        "android_client_info": {
+          "package_name": "com.example.rplrus021.bookdigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485887424087-s4l4rl2nhafem174mu5fi9d2h5j81h2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rplrus021.bookdigital",
+            "certificate_hash": "4c35d44feae7f16d69e3436188eaa1f9e1d274db"
+          }
+        },
+        {
+          "client_id": "485887424087-60nhn05isgr1njp3astsqesp262mo4p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmvvkBL2AzMp7DJ0v0REg4iP3FYl_pvB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485887424087-60nhn05isgr1njp3astsqesp262mo4p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".my_creation_write">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/edt_judul_my_creation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Please Enter Title Your Creation" />
+
+            <EditText
+                android:id="@+id/edt_text_my_creation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter text" />
+
+            <Button
+                android:id="@+id/btn_picture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/edt_text_my_creation"
+                android:text="Picture" />
+
+            <ImageView
+                android:layout_gravity="center"
+                android:id="@+id/image_status"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_below="@+id/btn_picture"
+                android:src="@mipmap/ic_launcher_round"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_save_black_24dp"
+            app:elevation="15dp" />
+
+</RelativeLayout>
